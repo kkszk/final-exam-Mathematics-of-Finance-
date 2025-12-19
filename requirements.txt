@@ -1,0 +1,12 @@
+# 基础依赖
+numpy==1.26.4
+pandas==2.1.4
+scikit-learn==1.3.2
+scipy==1.11.4
+matplotlib==3.8.2
+
+# 深度学习依赖（GPU/CPU通用）
+torch>=2.1.0
+torchvision>=0.16.0
+torchaudio>=2.1.0
+
